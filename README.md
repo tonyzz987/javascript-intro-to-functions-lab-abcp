@@ -1,0 +1,2 @@
+function sayHelloToReimu ()
+  console.sayHelloToReimu
